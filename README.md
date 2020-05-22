@@ -63,4 +63,76 @@
 ----------
 
 
+2019.12.4更新接口
+
+
+----------
+
+
+<b>经纬度信息(可在线调用)</b>:获取当前经纬度信息——<a href="https://www.free-api.com/doc/316">接口地址</a><br><b>历史上的今天(可在线调用)</b>:历史上的今天——<a href="https://www.free-api.com/doc/317">接口地址</a><br><b>Bing 壁纸获取(可在线调用)</b>:获取最近的Bing 壁纸——<a href="https://www.free-api.com/doc/318">接口地址</a><br><b>天气查询(可在线调用)</b>:获取今天和未来三天的天气情况，来源于高德——<a href="https://www.free-api.com/doc/319">接口地址</a><br><b>天气查询(可在线调用)</b>:根据城市名，获取今天和未来三天的天气情况...——<a href="https://www.free-api.com/doc/320">接口地址</a><br><b>天气查询(可在线调用)</b>:根据城市id，获取未来15天的天气情况，...——<a href="https://www.free-api.com/doc/321">接口地址</a><br><b>手机归属地查询(可在线调用)</b>:根据手机号码查询手机号的归属地信息——<a href="https://www.free-api.com/doc/322">接口地址</a><br><b>手机归属地查询</b>:根据手机号码查询手机号的归属地信息，来源...——<a href="https://www.free-api.com/doc/323">接口地址</a><br><b>IP域名归属地查询(可在线调用)</b>:查询IP或者域名归属地——<a href="https://www.free-api.com/doc/324">接口地址</a><br><b>身份证查询(可在线调用)</b>:根据身份证获取该身份证号码的籍贯，出生年...——<a href="https://www.free-api.com/doc/325">接口地址</a><br><b>淘宝关键字(可在线调用)</b>:淘宝搜索关键字——<a href="https://www.free-api.com/doc/326">接口地址</a><br><b>百度关键字</b>:百度搜索关键字——<a href="https://www.free-api.com/doc/327">接口地址</a><br><b>Bing关键字(可在线调用)</b>:Bing搜索关键字——<a href="https://www.free-api.com/doc/328">接口地址</a><br><b>获取用户设备信息(可在线调用)</b>:通过 user-agent 分析用户设备...——<a href="https://www.free-api.com/doc/329">接口地址</a><br><b>百度音乐搜索(可在线调用)</b>:根据关键字获取音乐的相关信息——<a href="https://www.free-api.com/doc/330">接口地址</a>
+
+
+----------
+
+
+2020.1.9更新接口
+
+
+----------
+
+
+<b>手机号码归属地</b>:免费手机号码归属地API查询接口，来源于...——<a href="https://www.free-api.com/doc/331">接口地址</a><br><b>手机号码归属地</b>:免费手机号码归属地API查询接口，来源于...——<a href="https://www.free-api.com/doc/332">接口地址</a><br><b>图灵机器人(可在线调用)</b>:基于图灵机器人平台语义理解、深度学习等核...——<a href="https://www.free-api.com/doc/333">接口地址</a><br><b>实况天气(可在线调用)</b>:根据城市信息获取其实况天气——<a href="https://www.free-api.com/doc/334">接口地址</a><br><b>3天天气预报(可在线调用)</b>:根据城市信息获取其3天天气预报——<a href="https://www.free-api.com/doc/335">接口地址</a><br><b>生活指数(可在线调用)</b>:根据城市信息获取其生活指数——<a href="https://www.free-api.com/doc/336">接口地址</a><br><b>空气质量(可在线调用)</b>:通过空气质量数据接口，可获取空气质量相关...——<a href="https://www.free-api.com/doc/337">接口地址</a><br><b>译云机器翻译</b>:译云机器翻译开放API是中译语通面向广大...——<a href="https://www.free-api.com/doc/338">接口地址</a>
+
+
+----------
+
+
+2020.2.5更新接口
+
+
+----------
+
+
+<b>汇率与货币兑换率(可在线调用)</b>:汇率API是针对欧洲中央银行发布的当前汇...——<a href="https://www.free-api.com/doc/339">接口地址</a><br><b>随机活动(可在线调用)</b>:寻找随机活动来对抗无聊，前提是你看明白英...——<a href="https://www.free-api.com/doc/340">接口地址</a><br><b>地点搜索(可在线调用)</b>:提供三类范围条件的搜索功能：  指定城市...——<a href="https://www.free-api.com/doc/341">接口地址</a><br><b>关键词输入提示(可在线调用)</b>:用于获取输入关键字的补完与提示，帮助用户...——<a href="https://www.free-api.com/doc/342">接口地址</a><br><b>坐标位置描述(可在线调用)</b>:本接口提供由坐标到坐标所在位置的文字描述...——<a href="https://www.free-api.com/doc/343">接口地址</a><br><b>地址转坐标(可在线调用)</b>:本接口提供由地址描述到所述位置坐标的转换...——<a href="https://www.free-api.com/doc/344">接口地址</a><br><b>行政区划</b>:本接口提供中国标准行政区划数据，可用于生...——<a href="https://www.free-api.com/doc/345">接口地址</a><br><b>距离计算（一对多）(可在线调用)</b>:本服务用于单起点到多终点，或多起点到单终...——<a href="https://www.free-api.com/doc/346">接口地址</a><br><b>距离矩阵（多对多）(可在线调用)</b>:距离矩阵（DistanceMatrix）...——<a href="https://www.free-api.com/doc/347">接口地址</a><br><b>坐标转换(可在线调用)</b>:实现从其它地图供应商坐标系或标准GPS坐...——<a href="https://www.free-api.com/doc/348">接口地址</a><br><b>IP定位(可在线调用)</b>:通过终端设备IP地址获取其当前所在地理位...——<a href="https://www.free-api.com/doc/349">接口地址</a>
+
+
+----------
+
+
+2020.3.10更新接口
+
+
+----------
+
+
+<b>心灵毒鸡汤(可在线调用)</b>:随机获取来一条毒鸡汤，满足空虚的你——<a href="https://www.free-api.com/doc/350">接口地址</a><br><b>一言(可在线调用)</b>:一言指的就是一句话，可以是动漫中的台词，...——<a href="https://www.free-api.com/doc/351">接口地址</a><br><b>ACG图片(可在线调用)</b>:随机返回一张图片（动画、漫画、游戏之类的...——<a href="https://www.free-api.com/doc/352">接口地址</a><br><b>获取头像</b>:获取QQ 头像 和 Gravatar 头...——<a href="https://www.free-api.com/doc/353">接口地址</a><br><b>IP 查询(可在线调用)</b>:根据 ip 查询位置和网络——<a href="https://www.free-api.com/doc/354">接口地址</a><br><b>短网址生成(可在线调用)</b>:将一个特别长的网址生成 一个很短的网址，...——<a href="https://www.free-api.com/doc/355">接口地址</a><br><b>百度云盘提取码(可在线调用)</b>:根据百度网盘的分享链接获取提取码。数据来...——<a href="https://www.free-api.com/doc/356">接口地址</a><br><b>无水印视频解析(可在线调用)</b>:支持：抖音、快手、小红书、微视、火山小视...——<a href="https://www.free-api.com/doc/357">接口地址</a><br><b>抖音无水印视频解析</b>:根据抖音分享的链接，解析出没有水印的视频——<a href="https://www.free-api.com/doc/358">接口地址</a><br><b>皮皮虾无水印视频解析(可在线调用)</b>:根据皮皮虾分享的链接，解析出没有水印的视...——<a href="https://www.free-api.com/doc/359">接口地址</a><br><b>二维码图片生成</b>:生成二维码图片——<a href="https://www.free-api.com/doc/360">接口地址</a><br><b>二维码解码</b>:解码二维码图片——<a href="https://www.free-api.com/doc/361">接口地址</a><br><b>蓝奏云 lanzous 直连解析(可在线调用)</b>:通过分享的链接，获取直接下载的地址——<a href="https://www.free-api.com/doc/362">接口地址</a><br><b>网易新闻头条(可在线调用)</b>:获取网易新闻头条数据，支持分页——<a href="https://www.free-api.com/doc/363">接口地址</a><br><b>网易新闻详情(可在线调用)</b>:通过网易新闻 docid, 获取新闻的主...——<a href="https://www.free-api.com/doc/364">接口地址</a><br><b>汉服新闻(可在线调用)</b>:获取有关汉服新闻数据——<a href="https://www.free-api.com/doc/365">接口地址</a><br><b>微博热搜榜(可在线调用)</b>:获取实时微博热搜榜——<a href="https://www.free-api.com/doc/366">接口地址</a><br><b>Whois 域名(可在线调用)</b>:获取域名的的whois信息——<a href="https://www.free-api.com/doc/367">接口地址</a><br><b>域名备案查询(可在线调用)</b>:获取域名是否备案，查询备案号——<a href="https://www.free-api.com/doc/368">接口地址</a><br><b>网易云音乐(可在线调用)</b>:搜索获取网易云音乐数据——<a href="https://www.free-api.com/doc/369">接口地址</a><br><b>快递查询(可在线调用)</b>:根据快递编号查询快递实时物流信息，目前支...——<a href="https://www.free-api.com/doc/370">接口地址</a><br><b>翻译查询(可在线调用)</b>:文本翻译查询接口——<a href="https://www.free-api.com/doc/371">接口地址</a><br><b>名人名言(可在线调用)</b>:随机返回一条古今中外名人名言——<a href="https://www.free-api.com/doc/372">接口地址</a><br><b>国内天气预报查询</b>:now为查询今日天气预报，grid为查询...——<a href="https://www.free-api.com/doc/373">接口地址</a><br><b>土味情话(可在线调用)</b>:撩妹接口——<a href="https://www.free-api.com/doc/374">接口地址</a><br><b>网址安全检测</b>:检测网址或者域名，在 QQ 或者微信中是...——<a href="https://www.free-api.com/doc/375">接口地址</a><br><b>垃圾分类查询(可在线调用)</b>:查询垃圾分类信息——<a href="https://www.free-api.com/doc/376">接口地址</a><br><b>历史上的今天(可在线调用)</b>:获取历史上同一月同一天发生的事情——<a href="https://www.free-api.com/doc/377">接口地址</a><br><b>笑话大全(可在线调用)</b>:获取最新笑话,每天都会更新——<a href="https://www.free-api.com/doc/378">接口地址</a><br><b>谜语大全(可在线调用)</b>:获取最新的谜语大全——<a href="https://www.free-api.com/doc/379">接口地址</a><br><b>知乎日报(可在线调用)</b>:获取当日的知乎日报——<a href="https://www.free-api.com/doc/380">接口地址</a><br><b>每日一文</b>:每天更新一篇文章，数据来自：https:...——<a href="https://www.free-api.com/doc/381">接口地址</a><br><b>内容加密(可在线调用)</b>:内容加密接口,支持 md5 sha1 s...——<a href="https://www.free-api.com/doc/382">接口地址</a><br><b>今日热榜(可在线调用)</b>:今日热榜提供各站热榜聚合：微信、今日头条...——<a href="https://www.free-api.com/doc/383">接口地址</a><br><b>直连加QQ群(可在线调用)</b>:输入 QQ 群号就可以直接加群——<a href="https://www.free-api.com/doc/384">接口地址</a><br><b>随机诗词(可在线调用)</b>:输入 QQ 群号就可以直接加群——<a href="https://www.free-api.com/doc/385">接口地址</a><br><b>Bilibili 封面获取(可在线调用)</b>:想必很多人都会遇到这样的一个问题。在B站...——<a href="https://www.free-api.com/doc/386">接口地址</a>
+
+
+----------
+
+
+2020.4.6更新接口
+
+
+----------
+
+
+<b>随机密码(可在线调用)</b>:自定义生成你需要的位数随机密码——<a href="https://www.free-api.com/doc/387">接口地址</a><br><b>QQ等级查询(可在线调用)</b>:查询任意qq号码的qq等级、q龄等信息——<a href="https://www.free-api.com/doc/388">接口地址</a><br><b>短网址链接生成(可在线调用)</b>:长网址缩短服务，支持新浪、微信、腾讯短网...——<a href="https://www.free-api.com/doc/389">接口地址</a><br><b>三合一收款码</b>:将支付宝、微信、企鹅收款集合到一起，省去...——<a href="https://www.free-api.com/doc/390">接口地址</a><br><b>垃圾分类(可在线调用)</b>:查询垃圾分类信息——<a href="https://www.free-api.com/doc/391">接口地址</a><br><b>网站背景图</b>:随机输出网站背景图片——<a href="https://www.free-api.com/doc/392">接口地址</a><br><b>二维码解码器(可在线调用)</b>:将带有二维码图片进行解析、解码处理——<a href="https://www.free-api.com/doc/393">接口地址</a>
+
+
+----------
+
+
+2020.5.1更新接口
+
+
+----------
+
+
+<b>随机输出头像图片</b>:随机输出高清头像图片，可以用在用户一开始...——<a href="https://www.free-api.com/doc/394">接口地址</a><br><b>搜狗高清壁纸</b>:通过搜狗搜索随机高清无码壁纸图片——<a href="https://www.free-api.com/doc/395">接口地址</a><br><b>天气预报查询(可在线调用)</b>:查询未来七天的天气预报信息——<a href="https://www.free-api.com/doc/396">接口地址</a><br><b>圆通快递查询(可在线调用)</b>:圆通快递物流轨迹信息查询——<a href="https://www.free-api.com/doc/397">接口地址</a><br><b>历史上的今天(可在线调用)</b>:获取历史上的今天信息——<a href="https://www.free-api.com/doc/398">接口地址</a><br><b>网易云音乐</b>:随机获取网易云音乐热门歌曲接口——<a href="https://www.free-api.com/doc/399">接口地址</a><br><b>网易云热评</b>:随机获取网易云音乐热门评论接口——<a href="https://www.free-api.com/doc/400">接口地址</a><br><b>随机语录</b>:随机输出一句经典语录——<a href="https://www.free-api.com/doc/401">接口地址</a><br><b>备案信息查询(可在线调用)</b>:根据域名查询ICP备案号及备案信息——<a href="https://www.free-api.com/doc/402">接口地址</a><br><b>域名注册查询(可在线调用)</b>:查询域名是否被注册或可否注册——<a href="https://www.free-api.com/doc/403">接口地址</a><br><b>中文翻译(可在线调用)</b>:支持中、英、日、韩等28种语言互译——<a href="https://www.free-api.com/doc/404">接口地址</a><br><b>获取访问信息(可在线调用)</b>:获取用户访问系统信息档——<a href="https://www.free-api.com/doc/405">接口地址</a><br><b>网页提示跳转</b>:来路验证和跳转提示功能的美化页面，支持手...——<a href="https://www.free-api.com/doc/406">接口地址</a>
+
+
+----------
+
+
 努力添加中......
